@@ -1,16 +1,111 @@
-# React + Vite
+# 👥 Team Profile Directory (Manual Version)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application
+built manually using
+**React** and **Vite**.
 
-Currently, two official plugins are available:
+The project focuses on
+component-based development,
+JSX rules,
+props,
+children,
+and prop drilling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🌐 **Live Site**
 
-## Expanding the ESLint configuration
+[Add Vercel Link Here]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📂 **GitHub Repository**
+
+[Add GitHub Repo Link Here]
+
+🎥 **Loom Walkthrough**
+
+[Add Loom Video Link Here]
+
+---
+
+## ✨ Features
+
+- Team Member Cards
+- Reusable Components
+- Skill Badges
+- Admin Badge
+- Responsive UI
+- Dynamic Rendering
+- Event Handling
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- Vite
+- JavaScript
+- CSS3
+
+---
+
+## 📁 Folder Structure
+
+```text
+src
+│
+├── components
+│   ├── Card
+│   ├── Section
+│   ├── TeamMember
+│   └── SkillBadge
+│
+├── data
+│   └── team.js
+│
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+npm install
+
+npm run dev
+```
+
+---
+
+## 📚 Concepts Used
+
+- JSX Rules
+- Functional Components
+- Props
+- Children Prop
+- Prop Drilling
+- Conditional Rendering
+- List Rendering
+
+---
+
+## 👩‍💻 Author
+
+**Safina Fatima**
+
+GitHub
+
+[Add GitHub Profile]
+
+LinkedIn
+
+[Add LinkedIn Profile]
+
+---
+
+⭐ Developed manually
+as part of the
+React Class 1 Assignment.
