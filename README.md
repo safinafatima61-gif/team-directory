@@ -27,8 +27,6 @@ https://team-directory-nu.vercel.app/
 [https://github.com/safinafatima61-gif/team-directory.git]
 
 
-🎥 **Loom Walkthrough**
-https://www.loom.com/share/cbfca839fa7c4dd79607e00b5971c809
 
 ---
 
