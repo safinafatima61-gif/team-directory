@@ -8,4 +8,4 @@ function Card({ children }) {
   );
 }
 
-export default Card;cd "C:\Users\Dell\Desktop\Ai directory portfolio\team-directory"
+export default Card;
