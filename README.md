@@ -14,21 +14,21 @@ and prop drilling.
 ---
 ## Browser link
  http://localhost:5175/
+ 
 ## 🚀 Live Demo
   Github
  https://safinafatima61-gif.github.io/team-directory/
 
 🌐 **Live Site**
-
-[Add Vercel Link Here]
+ Vercel 
+https://team-directory-nu.vercel.app/
 
 📂 **GitHub Repository**
-
 [https://github.com/safinafatima61-gif/team-directory.git]
 
-🎥 **Loom Walkthrough**
 
-[Add Loom Video Link Here]
+🎥 **Loom Walkthrough**
+https://www.loom.com/share/cbfca839fa7c4dd79607e00b5971c809
 
 ---
 
@@ -99,13 +99,6 @@ npm run dev
 
 **Safina Fatima**
 
-GitHub
-
-[Add GitHub Profile]
-
-LinkedIn
-
-[Add LinkedIn Profile]
 
 ---
 
