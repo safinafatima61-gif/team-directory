@@ -22,7 +22,7 @@ and prop drilling.
 
 📂 **GitHub Repository**
 
-[Add GitHub Repo Link Here]
+[https://github.com/safinafatima61-gif/team-directory.git]
 
 🎥 **Loom Walkthrough**
 
