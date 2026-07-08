@@ -15,6 +15,8 @@ and prop drilling.
 ## Browser link
  http://localhost:5175/
 ## 🚀 Live Demo
+  Github
+ https://safinafatima61-gif.github.io/team-directory/
 
 🌐 **Live Site**
 
